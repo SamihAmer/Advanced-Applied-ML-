@@ -4,3 +4,5 @@ Module 1 /glove.6B.50d.txt.gz
 Module 2 /movielens/movielens_genome_scores.csv
 Module 2 /movielens/movielens_rating.csv
 Module 2 /glove.6B.50d.txt.gz
+Module 2/movielens/movielens_genome_scores.csv
+Module 2/movielens/movielens_rating.csv
